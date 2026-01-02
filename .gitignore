@@ -1,0 +1,35 @@
+# STM32CubeIDE generated files and directories
+.metadata/
+.settings/
+Debug/
+Release/
+build/
+*.launch
+*.suo
+*.user
+*.userosscache
+.vs/
+Binary/
+makefile.su
+
+# TouchGFX build artifacts (if used)
+TouchGFX/build/
+TouchGFX/generated/generated_files.mk
+TouchGFX/generated_texts.xlsx
+
+# General build artifacts
+*.o
+*.d
+*.i
+*.map
+*.hex
+*.elf
+*.bin
+*.lst
+*.su
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+*.stackdump
