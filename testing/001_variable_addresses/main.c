@@ -1,8 +1,6 @@
 /*
- * main.c
- *
- *  Created on: Jan 2, 2026
- *      Author: jobot
+ * shows sizes of different integer types
+ * initializes variables of different integer types to show addresses
  */
 #include <stdio.h>
 
